@@ -94,11 +94,11 @@ docker compose up -d
 ## Nginx funcionando                      
 ![Nginx](imagenes/nginx.png) 
 ## API Node.js
-![Node](imagenes/node.png)
+![Api](imagenes/api.png)
 ## pgAdmin
 ![pgAdmin](imagenes/pgadmin.png)
 ## Jupyter Lab
-![Jupyter](imagenes/jupyter.png)
+![Jupyter](imagenes/jupyterlab.png)
 ## contenedores activos
 ![Contenedores](imagenes/contenedores.png)
 
