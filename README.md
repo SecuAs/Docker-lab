@@ -92,15 +92,15 @@ docker compose up -d
 
 
 ## Nginx funcionando                      
-C:\Users\USUARIO\Pictures\Screenshots\Captura de pantalla 2026-05-21 185642.png                               
+![Nginx](imagenes/nginx.png) 
 ## API Node.js
-C:\Users\USUARIO\Pictures\Screenshots\Captura de pantalla 2026-05-21 190003.png
+![Node](imagenes/node.png)
 ## pgAdmin
-C:\Users\USUARIO\Pictures\Screenshots\Captura de pantalla 2026-05-21 192436.png
+![pgAdmin](imagenes/pgadmin.png)
 ## Jupyter Lab
-C:\Users\USUARIO\Pictures\Screenshots\Captura de pantalla 2026-05-21 193456.png
+![Jupyter](imagenes/jupyter.png)
 ## contenedores activos
-C:\Users\USUARIO\Pictures\Screenshots\Captura de pantalla 2026-05-21 201925.png
+![Contenedores](imagenes/contenedores.png)
 
 
 
